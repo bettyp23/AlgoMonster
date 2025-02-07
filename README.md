@@ -77,6 +77,3 @@ AlgoMonster-Practice/
 ## How to Contribute
 - Feel free to fork this repository and contribute solutions or optimizations.
 - Open issues for discussions or suggestions.
-
-## License
-This project is open-source under the MIT License.
